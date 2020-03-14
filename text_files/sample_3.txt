@@ -1,0 +1,7 @@
+KING,PAUPER,PRINCE,QUEEN
+P,A,U,P,E,R 
+W,G,T,A,C,X 
+Q,U,E,E,N,K 
+D,G,E,O,I,G 
+Y,H,W,N,R,O 
+R,H,G,M,P,A
